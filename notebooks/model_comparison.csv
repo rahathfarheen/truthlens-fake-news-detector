@@ -1,0 +1,7 @@
+Model,Original_Test_Accuracy,Indian_Test_Correct,Indian_Test_Accuracy
+Baseline,0.9961,2/5,0.4
+Improved SVM,0.996248,2/5,0.4
+Model B,0.996378,2/5,0.4
+Model C,0.996248,2/5,0.4
+Model D,0.990815,4/5,0.8
+Model E,0.992109,4/5,0.8

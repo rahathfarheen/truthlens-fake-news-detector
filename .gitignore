@@ -1,0 +1,43 @@
+# Virtual environments
+.venv/
+.venv313/
+.venv-1/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# Python cache
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+
+# Large/local datasets
+data/raw/
+
+# Local processed datasets
+data/processed_news.csv
+data/processed_news_nlp.csv
+
+# Local test datasets
+test_data/
+
+# Duplicate/old models
+models/
